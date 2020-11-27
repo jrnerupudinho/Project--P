@@ -1,2 +1,2 @@
-# Project-ECSE521
+# Project-p
 This is project for ECSE 521 course. The code must not be used or copied without my consent.
